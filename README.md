@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![HyHydromechanics's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=HyHydromechanics&show_icons=true&count_private=true&theme=gotham)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyHydromechanics&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
